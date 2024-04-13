@@ -1,0 +1,17 @@
+_commit: 1.1.0
+_src_path: https://github.com/flowtaleai/copier-python-poetry.git
+author_email: rogvidarge@gmail.com
+author_name: Rogvi David Arge
+distribution_name: pypack
+git_hosting: none
+ide: none
+license: MIT license
+max_line_length: 88
+package_name: pypack
+package_type: library
+project_name: Python package catalog
+project_short_description: A catalog of python packages
+python_version: '3.10'
+testing_framework: pytest
+use_flake8_strict_plugins: true
+version: 0.1.0
